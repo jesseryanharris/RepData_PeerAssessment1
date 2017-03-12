@@ -2,7 +2,9 @@
 title: "Exploring Some Activity Monitoring Data"
 author: "Jesse Harris"
 date: "March 11, 2017"
-output: html_document
+output: 
+  html_document: 
+    self_contained: no
 ---
 
 ```{r setup, include=FALSE}
