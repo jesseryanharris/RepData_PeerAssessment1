@@ -7,7 +7,7 @@ March 11, 2017
 ## Loading and preprocessing the data
 
 Assuming that the activity.csv file exists within the working directory, we can
-load the data as follows:
+load the data as follows.
 
 
 ```r
